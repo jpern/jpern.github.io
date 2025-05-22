@@ -35,6 +35,7 @@ SolidWorks (CSWA), MATLAB, JavaScript, Python, Microsoft Office, MongoDB, Siemen
 
 ### Projects
 **Low Altitude Economy Service Cloud Platform for Unmanned Air Mobility (UAM) in China,** RobSense (Aug 2024 - Dec 2024)
+[Publication](https://digital.wpi.edu/concern/student_works/44558j939)
 - Worked in a group of 15 students from Worcester Polytechnic Institute and Hangzhou Dianzi University in an International Joint Practice project in Hangzhou, China, sponsored by RobSense Technology and Education.
 - Developed a high level conceptual design and business plan for a low altitude service cloud platform.
 
