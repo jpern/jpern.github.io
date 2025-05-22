@@ -1,2 +1,7 @@
-# jpern.github.io
-jpern.github.io/portfolio
+### Education
+Worcester Polytechnic Institute          May 2026
+Mechanical Engineering
+
+### Work Experience
+
+### Projects
