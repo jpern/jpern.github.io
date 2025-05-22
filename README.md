@@ -1,11 +1,11 @@
-### Education
+## Education
 Worcester Polytechnic Institute | May 2026
 B.S. Mechanical Engineering
 
-### Technical Skills
+## Technical Skills
 SolidWorks (CSWA), MATLAB, JavaScript, Python, Microsoft Office, MongoDB, Siemens NX, Discord.js, VEX
 
-### Work Experience
+## Work Experience
 **Leap Intern - Mission Assurance,** Lucy Mission L'SPACE Mission Concept Academy (Jan 2025 - Present)
 - Providing mentorship to 300+ students in the NASA Lucy Mission L’SPACE Mission Concept Academy for critical aspects of mission formulation, with a specific focus on risk identification, mitigation, and management.
 - Ensuring successful completion of the academy for students through their development of a mission concept from the Mission Concept Review to the Preliminary Design Review in the NASA Project Mission Lifecycle.
@@ -33,7 +33,7 @@ SolidWorks (CSWA), MATLAB, JavaScript, Python, Microsoft Office, MongoDB, Siemen
 - Empowered middle schoolers with the fundamentals of robot design, programming, project planning, and core values through a multitude of hands-on experiences.
 - Collaborated with the robotics club to promote STEM to youth in the community, attracting 500+ students, families, STEM clubs, and STEM organizations to a community-wide event.
 
-### Projects
+## Projects
 **Low Altitude Economy Service Cloud Platform for Unmanned Air Mobility (UAM) in China,** RobSense (Aug 2024 - Dec 2024)
 [Publication](https://digital.wpi.edu/concern/student_works/44558j939)
 - Worked in a group of 15 students from Worcester Polytechnic Institute and Hangzhou Dianzi University in an International Joint Practice project in Hangzhou, China, sponsored by RobSense Technology and Education.
@@ -45,19 +45,19 @@ SolidWorks (CSWA), MATLAB, JavaScript, Python, Microsoft Office, MongoDB, Siemen
 **The Wild & The Slimy,** Practicum in Humanities and Arts (Mar 2025 - May 2025)
 - Developed a pitch deck and pilot episode storyboard for docu-series focusing on the adaptations that allow different reptiles and amphibians survive in some of the most unforgiving environments on Earth.
 
-### Activities
+## Activities
 **Member,** American Society of Mechanical Engineers, WPI (March 2024 - Present)
 **Member,** Society of Asian Scientists and Engineers, WPI (Aug 2022 - Present)
 **Member/Alumni/Volunteer,** FIRST (Sept 2012 - Present)
 
-### Awards
+## Awards
 **Worcester Polytechnic Institute Dean’s List Award** - 2023 and 2024
 - Awarded by Worcester Polytechnic Institute for excellent work in rigorous courses and projects.
 
 **2022 Retirees School Volunteer Association (RSVA) STEM Award**
 - Awarded by the Retirees School Volunteer Association (RSVA), with the support of RTX Corporation, for outstanding STEM academic performance and leadership in extracurricular activities promoting STEM education.
 
-### Related Coursework
+## Related Coursework
 ES 2001 | Introduction to Material Science
 ES 2501 | Introduction to Static Systems
 ES 2502 | Stress Analysis
