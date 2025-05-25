@@ -160,10 +160,10 @@
 
 <h2 style="font-size: 1.5em;">🤖 <strong>Activities</strong></h2>
 <div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
-  <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
-    <li><strong>Member,</strong> American Society of Mechanical Engineers, WPI (March 2024 - Present)</li>
-    <li><strong>Member,</strong> Society of Asian Scientists and Engineers, WPI (Aug 2022 - Present)</li>
-    <li><strong>Member/Alumni/Volunteer,</strong> FIRST (Sept 2012 - Present)</li>
+  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    <li><strong>Member,</strong> American Society of Mechanical Engineers, WPI (March 2024 – Present)</li>
+    <li><strong>Member,</strong> Society of Asian Scientists and Engineers, WPI (Aug 2022 – Present)</li>
+    <li><strong>Member/Alumni/Volunteer,</strong> FIRST (Sept 2012 – Present)</li>
   </ul>
 </div>
 
@@ -178,11 +178,6 @@
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Awarded by Worcester Polytechnic Institute for excellent work in rigorous courses and projects.</li>
     </ul>
-    <a href="https://digital.wpi.edu/concern/student_works/44558j939" target="_blank" rel="noopener">
-    <button style="margin-top: 10px; padding: 8px 16px; border-radius: 6px; border: none; background-color: #007acc; color: white;">
-      View Publication
-    </button>
-    </a>
   </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
