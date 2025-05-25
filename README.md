@@ -20,22 +20,17 @@
   </div>
 </div>
 <br>
-<div style="max-width: 600px; margin: 20px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
-
-  <h2 style="margin-top: 0; font-size: 1.5em;">🧑‍🎓 <strong>Education</strong></h2>
-
+<h2 style="font-size: 1.5em;">🧑‍🎓 <strong>Education</strong></h2>
+<div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
   <p style="margin: 0; font-size: 1.1em;">
     <strong>Worcester Polytechnic Institute</strong><br>
     B.S. in Mechanical Engineering<br>
     <em>Expected May 2026</em>
   </p>
-
 </div>
 
-<div style="max-width: 600px; margin: 20px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
-
-  <h2 style="margin-top: 0; font-size: 1.5em;">⚙️ <strong>Technical Skills</strong></h2>
-
+<h2 style="font-size: 1.5em;">⚙️ <strong>Technical Skills</strong></h2>
+<div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
   <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
     <li>SolidWorks (CSWA)</li>
     <li>MATLAB</li>
@@ -47,7 +42,6 @@
     <li>Discord.js</li>
     <li>VEX</li>
   </ul>
-
 </div>
 <div style="max-width: 800px; margin: 20px auto;">
 
