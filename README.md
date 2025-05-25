@@ -162,7 +162,7 @@
 <div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
   <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
     <li><strong>Member,</strong> American Society of Mechanical Engineers, WPI (March 2024 - Present)</li>
-    <li><strong>**Member,</strong> Society of Asian Scientists and Engineers, WPI (Aug 2022 - Present)</li>
+    <li><strong>Member,</strong> Society of Asian Scientists and Engineers, WPI (Aug 2022 - Present)</li>
     <li><strong>Member/Alumni/Volunteer,</strong> FIRST (Sept 2012 - Present)</li>
   </ul>
 </div>
