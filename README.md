@@ -12,7 +12,8 @@
       </button>
     </a>
   </div>
-<div style="margin-bottom: 20px;"></div>
+</div>
+
 
 ## 🧑‍🎓 __Education__
 Worcester Polytechnic Institute | B.S. Mechanical Engineering | May 2026
