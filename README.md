@@ -23,8 +23,21 @@
 ## 🧑‍🎓 __Education__
 Worcester Polytechnic Institute | B.S. Mechanical Engineering | May 2026
 
-## ⚙️ __Technical Skills__
-SolidWorks (CSWA), MATLAB, JavaScript, Python, Microsoft Office, MongoDB, Siemens NX, Discord.js, VEX
+<h2>⚙️ <strong>Technical Skills</strong></h2>
+
+<div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9; max-width: 600px;">
+  <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
+    <li>SolidWorks (CSWA)</li>
+    <li>MATLAB</li>
+    <li>JavaScript</li>
+    <li>Python</li>
+    <li>Microsoft Office</li>
+    <li>MongoDB</li>
+    <li>Siemens NX</li>
+    <li>Discord.js</li>
+    <li>VEX</li>
+  </ul>
+</div>
 
 ## 💼 __Experience__
 **Leap Intern - Mission Assurance,** *Lucy Mission L'SPACE Mission Concept Academy (Jan 2025 - Present)*  
