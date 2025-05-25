@@ -2,7 +2,7 @@
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/jocelynpern/" target="_blank" rel="noopener">
       <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #8A9FED; color: white;">
-        Projects
+        LinkedIn
       </button>
     </a>
 
@@ -13,6 +13,7 @@
     </a>
   </div>
 </div>
+<br><br>
 
 
 ## 🧑‍🎓 __Education__
