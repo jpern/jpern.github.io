@@ -13,9 +13,7 @@
     </a>
   </div>
 </div>
-<br><br>
-
-
+<br>
 ## 🧑‍🎓 __Education__
 Worcester Polytechnic Institute | B.S. Mechanical Engineering | May 2026
 
