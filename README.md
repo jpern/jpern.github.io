@@ -49,6 +49,35 @@
   </ul>
 
 </div>
+<div style="max-width: 800px; margin: 20px auto;">
+
+  <h2 style="font-size: 1.5em;">💼 <strong>Experience</strong></h2>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>Leap Intern - Mission Assurance,</strong> <em> Lucy Mission L'SPACE Mission Concept Academy</em><br>
+      <span style="font-size: 0.95em; color: #555;">Jan 2025 – Present</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Providing mentorship to 300+ students in the NASA Lucy Mission L’SPACE Mission Concept Academy for critical aspects of mission formulation, with a specific focus on risk identification, mitigation, and management.</li>
+      <li>Ensuring successful completion of the academy for students through their development of a mission concept from the Mission Concept Review to the Preliminary Design Review in the NASA Project Mission Lifecycle.</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>Project Manager,</strong> <em> NASA L'SPACE Proposal Writing and Evaluation Experience - Project L.W.L.S.</em><br>
+      <span style="font-size: 0.95em; color: #555;">Sep 2024 – Dec 2024</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Managed an interdisciplinary team of 10 students and organized the team’s operations and procedures by undertaking several administrative tasks, such as; scheduling weekly meetings, leading task distribution and progress checks, and managing the team’s document organization.</li>
+      <li>Developed a novel solution to address a NASA pain point after researching existing state of the art technology.</li>
+      <li>Co-authored a technical proposal in response to a request from NASA Marshall Space Flight Center.</li>
+    </ul>
+  </div>
+
+</div>
+
 
 ## 💼 __Experience__
 **Leap Intern - Mission Assurance,** *Lucy Mission L'SPACE Mission Concept Academy (Jan 2025 - Present)*  
