@@ -117,37 +117,97 @@
   </div>
 </div>
 
-## 🛠 __Projects__
-**Low Altitude Economy Service Cloud Platform for Unmanned Air Mobility (UAM) in China,** *RobSense (Aug 2024 - Dec 2024)*  
-[Publication](https://digital.wpi.edu/concern/student_works/44558j939)  
-» Worked in a group of 15 students from Worcester Polytechnic Institute and Hangzhou Dianzi University in an International Joint Practice project in Hangzhou, China, sponsored by RobSense Technology and Education.  
-» Developed a high level conceptual design and business plan for a low altitude service cloud platform.
+<div style="max-width: 800px; margin: 20px auto;">
 
-**Fruit Harvesting Robot,** *RBE 1001 Capstone Project (Aug 2024 - Oct 2024)*  
-» Designed, built, and programmed a VEX robot to autonomously harvest, transport, and sort fruit objects using computer vision, PID control, and sensors.
+  <h2 style="font-size: 1.5em;">🛠 <strong>Projects</strong></h2>
 
-**The Wild & The Slimy,** *Practicum in Humanities and Arts (Mar 2025 - May 2025)*  
-» Developed a pitch deck and pilot episode storyboard for docu-series focusing on the adaptations that allow different reptiles and amphibians survive in some of the most unforgiving environments on Earth.
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>Low Altitude Economy Service Cloud Platform for Unmanned Air Mobility (UAM) in China,</strong> <em> RobSense</em><br>
+      <span style="font-size: 0.95em; color: #555;">Aug 2024 - Dec 2024</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Worked in a group of 15 students from Worcester Polytechnic Institute and Hangzhou Dianzi University in an International Joint Practice project in Hangzhou, China, sponsored by RobSense Technology and Education.</li>
+      <li>Developed a high level conceptual design and business plan for a low altitude service cloud platform.</li>
+    </ul>
+    <a href="https://digital.wpi.edu/concern/student_works/44558j939" target="_blank" rel="noopener">
+    <button style="margin-top: 10px; padding: 8px 16px; border-radius: 6px; border: none; background-color: #007acc; color: white;">
+      View Publication
+    </button>
+    </a>
+  </div>
 
-## 🤖 __Activities__
-**Member,** American Society of Mechanical Engineers, WPI (March 2024 - Present)  
-**Member,** Society of Asian Scientists and Engineers, WPI (Aug 2022 - Present)  
-**Member/Alumni/Volunteer,** FIRST (Sept 2012 - Present)
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>Fruit Harvesting Robot,</strong> <em> RBE 1001 Capstone Project</em><br>
+      <span style="font-size: 0.95em; color: #555;">Aug 2024 - Oct 2024</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Designed, built, and programmed a VEX robot to autonomously harvest, transport, and sort fruit objects using computer vision, PID control, and sensors.</li>
+    </ul>
+  </div>
 
-## 🏆 __Awards__
-**Worcester Polytechnic Institute Dean’s List Award** - 2023 and 2024  
-» Awarded by Worcester Polytechnic Institute for excellent work in rigorous courses and projects.
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>The Wild & The Slimy,</strong> <em> Practicum in Humanities and Arts</em><br>
+      <span style="font-size: 0.95em; color: #555;">Mar 2025 - May 2025</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Developed a pitch deck and pilot episode storyboard for docu-series focusing on the adaptations that allow different reptiles and amphibians survive in some of the most unforgiving environments on Earth.</li>
+    </ul>
+  </div>
+</div>
 
-**2022 Retirees School Volunteer Association (RSVA) STEM Award**  
-» Awarded by the Retirees School Volunteer Association (RSVA), with the support of RTX Corporation, for outstanding STEM academic performance and leadership in extracurricular activities promoting STEM education.
+<h2 style="font-size: 1.5em;">🤖 <strong>Activities</strong></h2>
+<div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+  <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
+    <li>**Member,** American Society of Mechanical Engineers, WPI (March 2024 - Present)</li>
+    <li>**Member,** Society of Asian Scientists and Engineers, WPI (Aug 2022 - Present)</li>
+    <li>Member/Alumni/Volunteer,** FIRST (Sept 2012 - Present)</li>
+  </ul>
+</div>
 
-## 📕 __Related Coursework__
-ES 2001 | Introduction to Material Science  
-ES 2501 | Introduction to Static Systems  
-ES 2502 | Stress Analysis  
-ES 2503 | Introduction to Dynamic Systems  
-ES 3001 | Introduction to Thermodynamics  
-ES 3004 | Fluid Mechanics  
-RBE 1001 | Introduction to Robotics  
-ES 1310 | Introduction to Computer Aided Design  
-ECE 2010 | Introduction to Electrical and Computer Engineering
+<div style="max-width: 800px; margin: 20px auto;">
+
+  <h2 style="font-size: 1.5em;">🏆 <strong>Awards</strong></h2>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>Worcester Polytechnic Institute Dean’s List Award</strong> <em> - 2023 and 2024</em><br>
+      <span style="font-size: 0.95em; color: #555;">Aug 2024 - Dec 2024</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Awarded by Worcester Polytechnic Institute for excellent work in rigorous courses and projects.</li>
+    </ul>
+    <a href="https://digital.wpi.edu/concern/student_works/44558j939" target="_blank" rel="noopener">
+    <button style="margin-top: 10px; padding: 8px 16px; border-radius: 6px; border: none; background-color: #007acc; color: white;">
+      View Publication
+    </button>
+    </a>
+  </div>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>2022 Retirees School Volunteer Association (RSVA) STEM Award</strong><br>
+      <span style="font-size: 0.95em; color: #555;">Aug 2024 - Oct 2024</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Awarded by the Retirees School Volunteer Association (RSVA), with the support of RTX Corporation, for outstanding STEM academic performance and leadership in extracurricular activities promoting STEM education.</li>
+    </ul>
+  </div>
+</div>
+
+<h2 style="font-size: 1.5em;">📕 <strong>Related Coursework</strong></h2>
+<div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+  <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
+    <li>ES 2001 | Introduction to Material Science</li>
+    <li>ES 2501 | Introduction to Static Systems</li>
+    <li>ES 2502 | Stress Analysis</li>
+    <li>ES 2503 | Introduction to Dynamic Systems</li>
+    <li>ES 3001 | Introduction to Thermodynamics</li>
+    <li>ES 3004 | Fluid Mechanics</li>
+    <li>RBE 1001 | Introduction to Robotics</li>
+    <li>ES 1310 | Introduction to Computer Aided Design</li>
+    <li>ECE 2010 | Introduction to Electrical and Computer Engineering</li>
+  </ul>
+</div>
