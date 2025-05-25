@@ -20,8 +20,17 @@
   </div>
 </div>
 <br>
-## 🧑‍🎓 __Education__
-Worcester Polytechnic Institute | B.S. Mechanical Engineering | May 2026
+<div style="max-width: 600px; margin: 20px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+
+  <h2 style="margin-top: 0; font-size: 1.5em;">🧑‍🎓 <strong>Education</strong></h2>
+
+  <p style="margin: 0; font-size: 1.1em;">
+    <strong>Worcester Polytechnic Institute</strong><br>
+    B.S. in Mechanical Engineering<br>
+    <em>Expected May 2026</em>
+  </p>
+
+</div>
 
 <div style="max-width: 600px; margin: 20px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
 
