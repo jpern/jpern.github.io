@@ -1,10 +1,10 @@
-## 🧑‍🎓 Education
+## 🧑‍🎓 __Education__
 Worcester Polytechnic Institute | B.S. Mechanical Engineering | May 2026
 
-## ⚙️ Technical Skills
+## ⚙️ __Technical Skills__
 SolidWorks (CSWA), MATLAB, JavaScript, Python, Microsoft Office, MongoDB, Siemens NX, Discord.js, VEX
 
-## 💼 Experience
+## 💼 __Experience__
 **Leap Intern - Mission Assurance,** Lucy Mission L'SPACE Mission Concept Academy (Jan 2025 - Present)  
 » Providing mentorship to 300+ students in the NASA Lucy Mission L’SPACE Mission Concept Academy for critical aspects of mission formulation, with a specific focus on risk identification, mitigation, and management.  
 » Ensuring successful completion of the academy for students through their development of a mission concept from the Mission Concept Review to the Preliminary Design Review in the NASA Project Mission Lifecycle.
@@ -32,31 +32,31 @@ SolidWorks (CSWA), MATLAB, JavaScript, Python, Microsoft Office, MongoDB, Siemen
 » Empowered middle schoolers with the fundamentals of robot design, programming, project planning, and core values through a multitude of hands-on experiences.  
 » Collaborated with the robotics club to promote STEM to youth in the community, attracting 500+ students, families, STEM clubs, and STEM organizations to a community-wide event.
 
-## 🛠 Projects
+## 🛠 __Projects__
 **Low Altitude Economy Service Cloud Platform for Unmanned Air Mobility (UAM) in China,** RobSense (Aug 2024 - Dec 2024)  
-[Publication](https://digital.wpi.edu/concern/student_works/44558j939)
+[Publication](https://digital.wpi.edu/concern/student_works/44558j939)  
 » Worked in a group of 15 students from Worcester Polytechnic Institute and Hangzhou Dianzi University in an International Joint Practice project in Hangzhou, China, sponsored by RobSense Technology and Education.  
 » Developed a high level conceptual design and business plan for a low altitude service cloud platform.
 
-**Fruit Harvesting Robot,** RBE 1001 Capstone Project (Aug 2024 - Oct 2024)
+**Fruit Harvesting Robot,** RBE 1001 Capstone Project (Aug 2024 - Oct 2024)  
 » Designed, built, and programmed a VEX robot to autonomously harvest, transport, and sort fruit objects using computer vision, PID control, and sensors.
 
-**The Wild & The Slimy,** Practicum in Humanities and Arts (Mar 2025 - May 2025)
+**The Wild & The Slimy,** Practicum in Humanities and Arts (Mar 2025 - May 2025)  
 » Developed a pitch deck and pilot episode storyboard for docu-series focusing on the adaptations that allow different reptiles and amphibians survive in some of the most unforgiving environments on Earth.
 
-## 🤖 Activities
+## 🤖 __Activities__
 **Member,** American Society of Mechanical Engineers, WPI (March 2024 - Present)  
 **Member,** Society of Asian Scientists and Engineers, WPI (Aug 2022 - Present)  
 **Member/Alumni/Volunteer,** FIRST (Sept 2012 - Present)
 
-## 🏆 Awards
+## 🏆 __Awards__
 **Worcester Polytechnic Institute Dean’s List Award** - 2023 and 2024  
 » Awarded by Worcester Polytechnic Institute for excellent work in rigorous courses and projects.
 
 **2022 Retirees School Volunteer Association (RSVA) STEM Award**  
 » Awarded by the Retirees School Volunteer Association (RSVA), with the support of RTX Corporation, for outstanding STEM academic performance and leadership in extracurricular activities promoting STEM education.
 
-## 📕 Related Coursework
+## 📕 __Related Coursework__
 ES 2001 | Introduction to Material Science  
 ES 2501 | Introduction to Static Systems  
 ES 2502 | Stress Analysis  
@@ -66,3 +66,12 @@ ES 3004 | Fluid Mechanics
 RBE 1001 | Introduction to Robotics  
 ES 1310 | Introduction to Computer Aided Design  
 ECE 2010 | Introduction to Electrical and Computer Engineering
+
+## __More__
+<p>
+  <a href="/assets/files/JocelynPernResume.pdf">
+    <button style="margin: 5px; padding: 10px 20px; border-radius: 6px; border: none; background-color: #28a745; color: white;">
+      Resume
+    </button>
+  </a>
+</p>
