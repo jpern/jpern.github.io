@@ -68,10 +68,4 @@ ES 1310 | Introduction to Computer Aided Design
 ECE 2010 | Introduction to Electrical and Computer Engineering
 
 ## __More__
-<p>
-  <a href="/assets/files/JocelynPernResume.pdf">
-    <button style="margin: 5px; padding: 10px 20px; border-radius: 6px; border: none; background-color: #28a745; color: white;">
-      Resume
-    </button>
-  </a>
-</p>
+[Resume](JocelynPernResume.pdf)  
