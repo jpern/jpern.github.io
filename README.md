@@ -1,18 +1,18 @@
 <div style="position: sticky; top: 0; background-color: white; padding: 10px; z-index: 1000; border-bottom: 1px solid #ddd;">
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/jocelynpern/" target="_blank" rel="noopener">
-      <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #007acc; color: white;">
+      <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #8A9FED; color: white;">
         Projects
       </button>
     </a>
 
     <a href="/assets/files/JocelynPernResume.pdf">
-      <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #28a745; color: white;">
+      <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #8A9FED; color: white;">
         Resume
       </button>
     </a>
   </div>
-</div>
+<div style="margin-bottom: 20px;"></div>
 
 ## 🧑‍🎓 __Education__
 Worcester Polytechnic Institute | B.S. Mechanical Engineering | May 2026
