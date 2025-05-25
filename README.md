@@ -69,8 +69,8 @@ ECE 2010 | Introduction to Electrical and Computer Engineering
 
 ## __More__
 <p>
-  <a href="JocelynPernResume.pdf">
-    <button style="margin: 5px; padding: 10px 20px; border-radius: 6px; border: none; background-color: #28a745; color: white;">
+  <a href="/assets/files/JocelynPernResume.pdf">
+    <button style="margin: 5px; padding: 10px 20px; border-radius: 6px; border: none; background-color: #C9D6F8; color: white;">
       Resume
     </button>
   </a>
