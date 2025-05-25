@@ -1,3 +1,18 @@
+## __More__
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/jocelynpern/" target="_blank" rel="noopener">
+    <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #507AE3; color: white;">
+      Projects
+    </button>
+  </a>
+
+  <a href="JocelynPernResume.pdf">
+    <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #507AE3; color: white;">
+      Resume
+    </button>
+  </a>
+</div>
+
 ## 🧑‍🎓 __Education__
 Worcester Polytechnic Institute | B.S. Mechanical Engineering | May 2026
 
@@ -66,12 +81,3 @@ ES 3004 | Fluid Mechanics
 RBE 1001 | Introduction to Robotics  
 ES 1310 | Introduction to Computer Aided Design  
 ECE 2010 | Introduction to Electrical and Computer Engineering
-
-## __More__
-<p>
-  <a href="/assets/files/JocelynPernResume.pdf">
-    <button style="margin: 5px; padding: 10px 20px; border-radius: 6px; border: none; background-color: #C9D6F8; color: white;">
-      Resume
-    </button>
-  </a>
-</p>
