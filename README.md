@@ -1,3 +1,6 @@
+<div align="center">
+  <h1>Jocelyn Pern</h1>
+</div>
 <div style="position: sticky; top: 0; background-color: white; padding: 10px; z-index: 1000; border-bottom: 1px solid #ddd;">
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/jocelynpern/" target="_blank" rel="noopener">
@@ -9,6 +12,12 @@
     <a href="/assets/files/JocelynPernResume.pdf">
       <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #8A9FED; color: white;">
         Resume
+      </button>
+    </a>
+
+    <a href="mailto:jocelynpern@gmail.com">
+      <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #8A9FED; color: white;">
+        Contact
       </button>
     </a>
   </div>
