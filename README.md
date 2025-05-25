@@ -174,7 +174,6 @@
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <p style="margin: 0; font-size: 1.1em;">
       <strong>Worcester Polytechnic Institute Dean’s List Award</strong> <em> - 2023 and 2024</em><br>
-      <span style="font-size: 0.95em; color: #555;">Aug 2024 - Dec 2024</span>
     </p>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Awarded by Worcester Polytechnic Institute for excellent work in rigorous courses and projects.</li>
@@ -189,7 +188,6 @@
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <p style="margin: 0; font-size: 1.1em;">
       <strong>2022 Retirees School Volunteer Association (RSVA) STEM Award</strong><br>
-      <span style="font-size: 0.95em; color: #555;">Aug 2024 - Oct 2024</span>
     </p>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Awarded by the Retirees School Volunteer Association (RSVA), with the support of RTX Corporation, for outstanding STEM academic performance and leadership in extracurricular activities promoting STEM education.</li>
