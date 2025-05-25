@@ -1,4 +1,3 @@
-## __More__
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/jocelynpern/" target="_blank" rel="noopener">
     <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #507AE3; color: white;">
