@@ -23,9 +23,10 @@
 ## 🧑‍🎓 __Education__
 Worcester Polytechnic Institute | B.S. Mechanical Engineering | May 2026
 
-<h2>⚙️ <strong>Technical Skills</strong></h2>
+<div style="max-width: 600px; margin: 20px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
 
-<div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9; max-width: 600px;">
+  <h2 style="margin-top: 0; font-size: 1.5em;">⚙️ <strong>Technical Skills</strong></h2>
+
   <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
     <li>SolidWorks (CSWA)</li>
     <li>MATLAB</li>
@@ -37,6 +38,7 @@ Worcester Polytechnic Institute | B.S. Mechanical Engineering | May 2026
     <li>Discord.js</li>
     <li>VEX</li>
   </ul>
+
 </div>
 
 ## 💼 __Experience__
