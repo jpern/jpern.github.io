@@ -33,6 +33,9 @@
 <div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
   <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
     <li>SolidWorks (CSWA)</li>
+    <li>Autodesk Inventor</li>
+    <li>Luminary Cloud</li>
+    <li>Computational Fluid Mechanics</li>
     <li>MATLAB</li>
     <li>JavaScript</li>
     <li>Python</li>
@@ -46,6 +49,20 @@
 <div style="max-width: 800px; margin: 20px auto;">
 
   <h2 style="font-size: 1.5em;">💼 <strong>Experience</strong></h2>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>Design Engineer Intern,</strong> <em> Watts Water Technologies</em><br>
+      <span style="font-size: 0.95em; color: #555;">May 2025 - Present</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Ulizing Luminary Cloud to develop computaonal fluid dynamics (CFD) models to calculate flow coefficients (Cv) for a variety of
+Was’ product lines to improve design specificaons.</li>
+      <li>Verifying and validang simulaon Cv results with laboratory test results to develop a set of correcon factors for future product
+designs and performance analyses.</li>
+      <li>Exploring water-based energy scavenging technologies and compiled a report on potenal product development plans.</li>
+    </ul>
+  </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <p style="margin: 0; font-size: 1.1em;">
@@ -173,7 +190,7 @@
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <p style="margin: 0; font-size: 1.1em;">
-      <strong>Worcester Polytechnic Institute Dean’s List Award</strong> <em> - 2023 and 2024</em><br>
+      <strong>Worcester Polytechnic Institute Dean’s List Award</strong> <em> - 2023, 2024, 2025</em><br>
     </p>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Awarded by Worcester Polytechnic Institute for excellent work in rigorous courses and projects.</li>
@@ -198,6 +215,7 @@
     <li>ES 2502 | Stress Analysis</li>
     <li>ES 2503 | Introduction to Dynamic Systems</li>
     <li>ES 3001 | Introduction to Thermodynamics</li>
+    <li>ES 3003 | Heat Transfer</li>
     <li>ES 3004 | Fluid Mechanics</li>
     <li>RBE 1001 | Introduction to Robotics</li>
     <li>ES 1310 | Introduction to Computer Aided Design</li>
