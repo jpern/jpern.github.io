@@ -82,16 +82,20 @@
   </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
-    <p style="margin: 0; font-size: 1.1em;">
-      <strong>Project Manager,</strong> <em> NASA L'SPACE Proposal Writing and Evaluation Experience - Project L.W.L.S.</em><br>
-      <span style="font-size: 0.95em; color: #555;">Sep 2024 – Dec 2024</span>
-    </p>
-    <ul style="margin-top: 10px; padding-left: 20px;">
-      <li>Managed an interdisciplinary team of 10 students and organized the team’s operations and procedures by undertaking several administrative tasks, such as; scheduling weekly meetings, leading task distribution and progress checks, and managing the team’s document organization.</li>
-      <li>Developed a novel solution to address a NASA pain point after researching existing state of the art technology.</li>
-      <li>Co-authored a technical proposal in response to a request from NASA Marshall Space Flight Center.</li>
-    </ul>
-  </div>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <p style="margin: 0; font-size: 1.1em;">
+            <strong>Project Manager</strong><br>
+            <em>NASA L'SPACE Proposal Writing and Evaluation Experience - Project L.W.L.S.</em><br>
+            <span style="font-size: 0.95em; color: #555;">Sep 2024 – Dec 2024</span>
+        </p>
+        <img src="/assets/img/lspace.png" alt="LSPACE" style="height: 40px; width: auto;">
+    </div>
+      <ul style="margin-top: 10px; padding-left: 20px;">
+          <li>Managed an interdisciplinary team of 10 students and organized the team’s operations and procedures by undertaking several administrative tasks, such as; scheduling weekly meetings, leading task distribution and progress checks, and managing the team’s document organization.</li>
+        <li>Developed a novel solution to address a NASA pain point after researching existing state of the art technology.</li>
+        <li>Co-authored a technical proposal in response to a request from NASA Marshall Space Flight Center.</li>
+      </ul>
+    </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <p style="margin: 0; font-size: 1.1em;">
