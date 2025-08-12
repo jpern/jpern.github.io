@@ -56,11 +56,10 @@
       <span style="font-size: 0.95em; color: #555;">May 2025 - Present</span>
     </p>
     <ul style="margin-top: 10px; padding-left: 20px;">
-      <li>Ulizing Luminary Cloud to develop computaonal fluid dynamics (CFD) models to calculate flow coefficients (Cv) for a variety of
-Was’ product lines to improve design specificaons.</li>
-      <li>Verifying and validang simulaon Cv results with laboratory test results to develop a set of correcon factors for future product
-designs and performance analyses.</li>
-      <li>Exploring water-based energy scavenging technologies and compiled a report on potenal product development plans.</li>
+      <li>Utilizing Luminary Cloud to develop computational fluid dynamics (CFD) models to calculate flow coefficients (Cv) for a variety of
+Watts’ product lines to improve design specifications</li>
+      <li>Verifying and validating simulation Cv results with laboratory test results to develop a set of correction factors for future product designs and performance analyses.</li>
+      <li>Exploring water-based energy scavenging technologies and compiled a report on potential product development plans.</li>
     </ul>
   </div>
 
