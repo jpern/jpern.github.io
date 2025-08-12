@@ -54,7 +54,7 @@
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <p style="margin: 0; font-size: 1.1em;">
             <strong>Design Engineer Intern</strong><br>
-            <em>Watts Water Technologies</em>
+            <em>Watts Water Technologies</em><br>
             <span style="font-size: 0.95em; color: #555;">May 2025 - Present</span>
         </p>
         <img src="/assets/img/wattswater.png" alt="Watts Water Technologies" style="height: 40px; width: auto;">
