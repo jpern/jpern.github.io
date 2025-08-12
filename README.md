@@ -73,7 +73,6 @@
             <em>NASA Lucy Mission L'SPACE Mission Concept Academy</em><br>
             <span style="font-size: 0.95em; color: #555;">Jan 2025 - Present</span>
         </p>
-        <img src="/assets/img/lspace.png" alt="LSPACE" style="height: 40px; width: auto;">
     </div>
     <ul style="margin-top: 10px; padding-left: 20px;">
         <li>Providing mentorship to 300+ students in the NASA Lucy Mission L’SPACE Mission Concept Academy for critical aspects of mission formulation, with a specific focus on risk identification, mitigation, and management.</li>
@@ -88,7 +87,6 @@
             <em>NASA L'SPACE Proposal Writing and Evaluation Experience - Project L.W.L.S.</em><br>
             <span style="font-size: 0.95em; color: #555;">Sep 2024 – Dec 2024</span>
         </p>
-        <img src="/assets/img/lspace.png" alt="LSPACE" style="height: 40px; width: auto;">
     </div>
       <ul style="margin-top: 10px; padding-left: 20px;">
           <li>Managed an interdisciplinary team of 10 students and organized the team’s operations and procedures by undertaking several administrative tasks, such as; scheduling weekly meetings, leading task distribution and progress checks, and managing the team’s document organization.</li>
