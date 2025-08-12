@@ -67,12 +67,16 @@
   </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
-    <p style="margin: 0; font-size: 1.1em;">
-      <strong>Leap Intern - Mission Assurance,</strong> <em> Lucy Mission L'SPACE Mission Concept Academy</em><br>
-      <span style="font-size: 0.95em; color: #555;">Jan 2025 – Present</span>
-    </p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <p style="margin: 0; font-size: 1.1em;">
+            <strong>LEAP Intern - Mission Assurance</strong><br>
+            <em>NASA Lucy Mission L'SPACE Mission Concept Academy</em><br>
+            <span style="font-size: 0.95em; color: #555;">Jan 2025 - Present</span>
+        </p>
+        <img src="/assets/img/lspace.png" alt="LSPACE" style="height: 40px; width: auto;">
+    </div>
     <ul style="margin-top: 10px; padding-left: 20px;">
-      <li>Providing mentorship to 300+ students in the NASA Lucy Mission L’SPACE Mission Concept Academy for critical aspects of mission formulation, with a specific focus on risk identification, mitigation, and management.</li>
+        <li>Providing mentorship to 300+ students in the NASA Lucy Mission L’SPACE Mission Concept Academy for critical aspects of mission formulation, with a specific focus on risk identification, mitigation, and management.</li>
       <li>Ensuring successful completion of the academy for students through their development of a mission concept from the Mission Concept Review to the Preliminary Design Review in the NASA Project Mission Lifecycle.</li>
     </ul>
   </div>
