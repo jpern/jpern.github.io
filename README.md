@@ -55,14 +55,14 @@
         <p style="margin: 0; font-size: 1.1em;">
             <strong>Design Engineer Intern</strong><br>
             <em>Watts Water Technologies</em><br>
-            <span style="font-size: 0.95em; color: #555;">May 2025 - Present</span>
+            <span style="font-size: 0.95em; color: #555;">May 2025 - Aug 2025</span>
         </p>
         <img src="/assets/img/wattswater.png" alt="Watts Water Technologies" style="height: 40px; width: auto;">
     </div>
     <ul style="margin-top: 10px; padding-left: 20px;">
-        <li>Utilizing Luminary Cloud to develop computational fluid dynamics (CFD) models to calculate flow coefficients (Cv) for a variety of Watts’ product lines to improve design specifications</li>
-        <li>Verifying and validating simulation Cv results with laboratory test results to develop a set of correction factors for future product designs and performance analyses.</li>
-        <li>Exploring water-based energy scavenging technologies and compiled a report on potential product development plans.</li>
+        <li>Utilized Luminary Cloud to develop computational fluid dynamics (CFD) models to calculate flow coefficients (Cv) for a variety of Watts’ product lines to improve design specifications</li>
+        <li>Verified and validated simulation Cv results with laboratory test results to develop a set of correction factors for future product designs and performance analyses.</li>
+        <li>Explored water-based energy scavenging technologies and compiled a report on potential product development plans.</li>
     </ul>
   </div>
 
