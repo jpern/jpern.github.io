@@ -83,6 +83,22 @@
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <p style="margin: 0; font-size: 1.1em;">
+            <strong>Undergraduate Instructional Assistant/Peer Learning Assistant</strong><br>
+            <em>Worcester Polytechnic Institute - Mechanical Engineering Department</em><br>
+            <span style="font-size: 0.95em; color: #555;">Mar 2025 - Present</span>
+        </p>
+    </div>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+        <li>Undergraduate Instructional Assistant and Peer Learning Assistant for the Mechanical Engineering Department at WPI.</li>
+      <li>ES 2501 Introduction to Static Systems (D Term 2025)</li>
+      <li>ES 2501 Introduction to Static Systems (E-1 Term 2025)</li>
+      <li>ES 2501 Introduction to Static Systems (A Term 2025)</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <p style="margin: 0; font-size: 1.1em;">
             <strong>Project Manager</strong><br>
             <em>NASA L'SPACE Proposal Writing and Evaluation Experience - Project L.W.L.S.</em><br>
             <span style="font-size: 0.95em; color: #555;">Sep 2024 – Dec 2024</span>
