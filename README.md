@@ -84,7 +84,7 @@
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <p style="margin: 0; font-size: 1.1em;">
             <strong>Undergraduate Instructional Assistant/Peer Learning Assistant</strong><br>
-            <em>Worcester Polytechnic Institute - Mechanical Engineering Department</em><br>
+            <em>Worcester Polytechnic Institute</em><br>
             <span style="font-size: 0.95em; color: #555;">Mar 2025 - Present</span>
         </p>
     </div>
