@@ -71,12 +71,12 @@
         <p style="margin: 0; font-size: 1.1em;">
             <strong>LEAP Intern - Mission Assurance</strong><br>
             <em>NASA Lucy Mission L'SPACE Mission Concept Academy</em><br>
-            <span style="font-size: 0.95em; color: #555;">Jan 2025 - Present</span>
+            <span style="font-size: 0.95em; color: #555;">Jan 2025 - Sep 2025</span>
         </p>
     </div>
     <ul style="margin-top: 10px; padding-left: 20px;">
-        <li>Providing mentorship to 300+ students in the NASA Lucy Mission L’SPACE Mission Concept Academy for critical aspects of mission formulation, with a specific focus on risk identification, mitigation, and management.</li>
-      <li>Ensuring successful completion of the academy for students through their development of a mission concept from the Mission Concept Review to the Preliminary Design Review in the NASA Project Mission Lifecycle.</li>
+        <li>Provided mentorship to 800+ students in the NASA Lucy Mission L’SPACE Mission Concept Academy for critical aspects of mission formulation, with a specific focus on risk identification, mitigation, and management.</li>
+      <li>Ensured successful completion of the academy for students through their development of a mission concept from the Mission Concept Review to the Preliminary Design Review in the NASA Project Mission Lifecycle.</li>
     </ul>
   </div>
 
