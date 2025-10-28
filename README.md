@@ -93,6 +93,7 @@
       <li>ES 2501 Introduction to Static Systems (D Term 2025)</li>
       <li>ES 2501 Introduction to Static Systems (E-1 Term 2025)</li>
       <li>ES 2501 Introduction to Static Systems (A Term 2025)</li>
+      <li>ES 2503 Introduction to Dynamic Systems (B Term 2025)</li>
     </ul>
   </div>
 
