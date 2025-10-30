@@ -246,6 +246,8 @@
 <h2 style="font-size: 1.5em;">📕 <strong>Related Coursework</strong></h2>
 <div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
   <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
+    <li>ME 4322 | Modeling and Analysis of Mechatronic Systems</li>
+    <li>ME 4429 | Thermofluid Application and Design</li>
     <li>ES 2001 | Introduction to Material Science</li>
     <li>ES 2501 | Introduction to Static Systems</li>
     <li>ES 2502 | Stress Analysis</li>
