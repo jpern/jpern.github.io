@@ -33,6 +33,7 @@
 <div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
   <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
     <li>SolidWorks (CSWA)</li>
+    <li>Ansys Fluent</li>
     <li>Autodesk Inventor</li>
     <li>Luminary Cloud</li>
     <li>Computational Fluid Mechanics</li>
@@ -163,6 +164,16 @@
 
   <h2 style="font-size: 1.5em;">🛠 <strong>Projects</strong></h2>
 
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>Wings of Gompei - </strong> <em>Design, Build, and Test a Remote-Controlled Airplane</em><br>
+      <span style="font-size: 0.95em; color: #555;">Aug 2025 - Present</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Utilizing SolidWorks, Ansys, and XFLR5 to design, simulate, fabricate, and test a 10ft wingspan remote-controlled airplane for competition in the SAE Aero Design East 2026 competition.</li>
+    </ul>
+  </div>
+  
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <p style="margin: 0; font-size: 1.1em;">
       <strong>Low Altitude Economy Service Cloud Platform for Unmanned Air Mobility (UAM) in China,</strong> <em> RobSense</em><br>
