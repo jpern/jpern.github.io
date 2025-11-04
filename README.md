@@ -54,6 +54,19 @@
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <p style="margin: 0; font-size: 1.1em;">
+            <strong>Student Researcher</strong><br>
+            <em>Honeywell GQP - Cathode Optimization for Low Temperature PEM Fuel Cells</em><br>
+            <span style="font-size: 0.95em; color: #555;">Oct 2025 - Present</span>
+        </p>
+    </div>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+        <li>Exploring potential changes to the standard cathode configuration of a low temperature proton exchange membrane (PEM) fuel cell through the use of SolidWorks and Ansys Fluent.</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <p style="margin: 0; font-size: 1.1em;">
             <strong>Design Engineer Intern</strong><br>
             <em>Watts Water Technologies</em><br>
             <span style="font-size: 0.95em; color: #555;">May 2025 - Aug 2025</span>
