@@ -35,6 +35,7 @@
     <li>SolidWorks (CSWA)</li>
     <li>Ansys Fluent</li>
     <li>Autodesk Inventor</li>
+    <li>Onshape</li>
     <li>Luminary Cloud</li>
     <li>Computational Fluid Mechanics</li>
     <li>MATLAB</li>
