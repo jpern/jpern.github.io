@@ -205,7 +205,7 @@
       <hr style="border: 0; height: 1px; background-color: #ddd; margin: 15px 0;">
   
       <div style="text-align: center; margin-bottom: 10px;">
-          <img src="/assets/img/ME1800StirlingEngine.jpg" alt="Photo of the fully assembled rolling ball Stirling engine." 
+          <img src="/assets/img/ME1800StirlingEngine.JPG" alt="Photo of the fully assembled rolling ball Stirling engine." 
                style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
           <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
               Finished rolling ball Stirling engine assembly.
