@@ -193,14 +193,24 @@
 
   <h2 style="font-size: 1.5em;">🛠 <strong>Projects</strong></h2>
 
-  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
-    <p style="margin: 0; font-size: 1.1em;">
-      <strong>ME 1800 Capstone Project - </strong> <em>Rolling Ball Stirling Engine</em><br>
-      <span style="font-size: 0.95em; color: #555;">Oct 2025 - Dec 2025</span>
-    </p>
-    <ul style="margin-top: 10px; padding-left: 20px;">
-      <li>Demonstrated CAM proficiency utilizing Mastercam and hands-on manufacturing skills to manufacture, test, and validate a working rolling ball Stirling engine.</li>
-    </ul>
+    <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+      <p style="margin: 0; font-size: 1.1em;">
+          <strong>ME 1800 Capstone Project - </strong> <em>Rolling Ball Stirling Engine</em><br>
+          <span style="font-size: 0.95em; color: #555;">Oct 2025 - Dec 2025</span>
+      </p>
+      <ul style="margin-top: 10px; padding-left: 20px;">
+          <li>Demonstrated CAM proficiency utilizing Mastercam and hands-on manufacturing skills to manufacture, test, and validate a working rolling ball Stirling engine.</li>
+      </ul>
+      
+      <hr style="border: 0; height: 1px; background-color: #ddd; margin: 15px 0;">
+  
+      <div style="text-align: center; margin-bottom: 10px;">
+          <img src="/assets/img/ME1800StirlingEngine.jpg" alt="Photo of the fully assembled rolling ball Stirling engine." 
+               style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+          <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
+              Finished rolling ball Stirling engine assembly.
+          </p>
+      </div>
   </div>
   
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
