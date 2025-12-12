@@ -41,6 +41,19 @@
     <li>MATLAB</li>
     <li>JavaScript</li>
     <li>Python</li>
+    <li>Geometric Dimensioning and Tolerancing (GD&T)</li>
+    <li>Mastercam</li>
+    <li>CNC Milling</li>
+    <li>Lathe Machining</li>
+    <li>Fluid Dynamics</li>
+    <li>Fluid Mechanics</li>
+    <li>Thermodynamics</li>
+    <li>Heat Transfer</li>
+    <li>Material Science</li>
+    <li>Mechatronics</li>
+    <li>Dynamics</li>
+    <li>CAD</li>
+    <li>CAM</li>
     <li>Microsoft Office</li>
     <li>MongoDB</li>
     <li>Siemens NX</li>
@@ -59,6 +72,7 @@
             <em>Honeywell GQP - Cathode Optimization for Low Temperature PEM Fuel Cells</em><br>
             <span style="font-size: 0.95em; color: #555;">Oct 2025 - Present</span>
         </p>
+        <img src="/assets/img/honeywell.png" alt="Honeywell" style="height: 40px; width: auto;">
     </div>
     <ul style="margin-top: 10px; padding-left: 20px;">
         <li>Exploring potential changes to the standard cathode configuration of a low temperature proton exchange membrane (PEM) fuel cell through the use of SolidWorks and Ansys Fluent.</li>
@@ -109,6 +123,7 @@
       <li>ES 2501 Introduction to Static Systems (E-1 Term 2025)</li>
       <li>ES 2501 Introduction to Static Systems (A Term 2025)</li>
       <li>ES 2503 Introduction to Dynamic Systems (B Term 2025)</li>
+      <li>ES 2503 Introduction to Dynamic Systems (C Term 2026)</li>
     </ul>
   </div>
 
@@ -178,6 +193,16 @@
 
   <h2 style="font-size: 1.5em;">🛠 <strong>Projects</strong></h2>
 
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <p style="margin: 0; font-size: 1.1em;">
+      <strong>ME 1800 Capstone Project - </strong> <em>Rolling Ball Stirling Engine</em><br>
+      <span style="font-size: 0.95em; color: #555;">Oct 2025 - Dec 2025</span>
+    </p>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Demonstrated CAM proficiency utilizing Mastercam and hands-on manufacturing skills to manufacture, test, and validate a working rolling ball Stirling engine.</li>
+    </ul>
+  </div>
+  
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <p style="margin: 0; font-size: 1.1em;">
       <strong>Wings of Gompei - </strong> <em>Design, Build, and Test a Remote-Controlled Airplane</em><br>
@@ -271,6 +296,7 @@
     <li>ES 3004 | Fluid Mechanics</li>
     <li>RBE 1001 | Introduction to Robotics</li>
     <li>ES 1310 | Introduction to Computer Aided Design</li>
+    <li>ME 1800 | Manufacturing Science, Prototyping, and Computer-Controlled Machining</li>
     <li>ECE 2010 | Introduction to Electrical and Computer Engineering</li>
   </ul>
 </div>
