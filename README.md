@@ -31,7 +31,7 @@
 
 <h2 style="font-size: 1.5em;">⚙️ <strong>Technical Skills</strong></h2>
 <div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
-  <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left: 0; margin: 0;">
+  <ul style="columns: 3; -webkit-columns: 3; -moz-columns: 3; list-style-type: none; padding-left: 0; margin: 0;">
     <li>SolidWorks (CSWA)</li>
     <li>Ansys Fluent</li>
     <li>Autodesk Inventor</li>
