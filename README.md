@@ -164,6 +164,14 @@
       <li>Increased organization’s community presence in Greater Boston through ~10 outreach events at local schools, town events, in-house, and tech companies such as Google and Boston Dynamics.</li>
       <li>Designed mechanical housing for a marketing project involving the development of a talking robotic head powered by ChatGPT that was showcased to 100+ members of the community.</li>
     </ul>
+
+    <div style="text-align: center; margin-bottom: 10px;">
+          <img src="/assets/img/TheRoboHubRobot.png" alt="Photo of completed talking robot." 
+               style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+          <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
+              Photo of completed talking robot.
+          </p>
+      </div>
   </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
