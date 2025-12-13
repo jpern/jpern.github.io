@@ -196,6 +196,13 @@
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Planned and promoted invitational event alongside the Boston Tech Initiative team and 16 other interns, aimed at the Greater Massachusetts FIRST Tech Challenge community to provide a platform for collaboration.</li>
     </ul>
+    <div style="text-align: center; margin-bottom: 10px;">
+          <img src="/assets/img/BTII.png" alt="Boston Tech Initiative Invitational Logo." 
+               style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+          <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
+              Boston Tech Initiative Invitational Logo.
+          </p>
+      </div>
   </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
