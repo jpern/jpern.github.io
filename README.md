@@ -140,6 +140,13 @@
         <li>Developed a novel solution to address a NASA pain point after researching existing state of the art technology.</li>
         <li>Co-authored a technical proposal in response to a request from NASA Marshall Space Flight Center.</li>
       </ul>
+    <div style="text-align: center; margin-bottom: 10px;">
+          <img src="/assets/img/NPWEETeam15OrgChart.png" alt="Team 15 Organizational Chart." 
+               style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+          <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
+              Project L.W.L.S. Organizational Chart.
+          </p>
+      </div>
     </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
@@ -152,6 +159,13 @@
       <li>Managed a team management system; scheduling team meetings, distributing tasks via Gantt charts and sign up sheets with 3 subteam leaders representing Science, Engineering, and Programmatics.</li>
       <li>Learned from NASA professionals and earned 7 skill mastery badges for the following topics: Teaming, Requirements, Project Management, Systems Topics, Risk Management, Heat Transfer, and Siemens NX.</li>
     </ul>
+    <div style="text-align: center; margin-bottom: 10px;">
+          <img src="/assets/img/MCATeam19OrgChart.png" alt="Team 19 Organizational Chart." 
+               style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+          <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
+              The Orion Alliance Organizational Chart.
+          </p>
+      </div>
   </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
