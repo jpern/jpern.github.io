@@ -6,7 +6,7 @@
       </button>
     </a>
 
-    <a href="/assets/files/JocelynPernResume.pdf">
+    <a href="/assets/files/JocelynPernResume2P.pdf">
       <button style="padding: 10px 20px; border-radius: 6px; border: none; background-color: #8A9FED; color: white;">
         Resume
       </button>
