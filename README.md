@@ -93,6 +93,13 @@
         <li>Verified and validated simulation Cv results with laboratory test results to develop a set of correction factors for future product designs and performance analyses.</li>
         <li>Explored water-based energy scavenging technologies and compiled a report on potential product development plans.</li>
     </ul>
+    <div style="text-align: center; margin-bottom: 10px;">
+          <img src="/assets/img/WattsImage1.jpg" alt="Watts Water Technologies Picture." 
+               style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+          <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
+              Watts Water Technologies Summer 2025 Intern cohort with CEO Bob Pagano.
+          </p>
+      </div>
   </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
@@ -107,6 +114,13 @@
         <li>Provided mentorship to 800+ students in the NASA Lucy Mission L’SPACE Mission Concept Academy for critical aspects of mission formulation, with a specific focus on risk identification, mitigation, and management.</li>
       <li>Ensured successful completion of the academy for students through their development of a mission concept from the Mission Concept Review to the Preliminary Design Review in the NASA Project Mission Lifecycle.</li>
     </ul>
+    <div style="text-align: center; margin-bottom: 10px;">
+          <img src="/assets/img/NASALEAPIntern.jpg" alt="NASA LEAP Intern." 
+               style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+          <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
+              NASA LEAP Intern Acceptance Graphic.
+          </p>
+      </div>
   </div>
 
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
