@@ -284,7 +284,7 @@
       <li>Designed, built, and programmed a VEX robot to autonomously harvest, transport, and sort fruit objects using computer vision, PID control, and sensors.</li>
     </ul>
     <div style="text-align: center; margin-bottom: 10px;">
-          <img src="/assets/img/RBE1001FinalRobot.png" alt="Final robot assembly." 
+          <img src="/assets/img/RBE1001FinalRobot.jpg" alt="Final robot assembly." 
                style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
           <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
               RBE 1001 final robot assembly.
