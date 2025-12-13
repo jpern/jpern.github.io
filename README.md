@@ -27,6 +27,7 @@
     B.S. in Mechanical Engineering<br>
     <em>Expected May 2026</em>
   </p>
+  <img src="/assets/img/WPILogo.png" alt="Worcester Polytechnic Institute Logo" style="height: 40px; width: auto;">
 </div>
 
 <h2 style="font-size: 1.5em;">⚙️ <strong>Technical Skills</strong></h2>
