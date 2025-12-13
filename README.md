@@ -306,6 +306,7 @@
 <h2 style="font-size: 1.5em;">🤖 <strong>Activities</strong></h2>
 <div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
   <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    <li><strong>Volunteer Manager,</strong> Pan Asian Association, WPI (Sept 2024 – May 2025)</li>
     <li><strong>Member,</strong> American Society of Mechanical Engineers, WPI (March 2024 – Present)</li>
     <li><strong>Member,</strong> Society of Asian Scientists and Engineers, WPI (Aug 2022 – Present)</li>
     <li><strong>Member/Alumni/Volunteer,</strong> FIRST (Sept 2012 – Present)</li>
