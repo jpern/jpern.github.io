@@ -221,6 +221,13 @@
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Utilizing SolidWorks, Ansys, and XFLR5 to design, simulate, fabricate, and test a 10ft wingspan remote-controlled airplane for competition in the SAE Aero Design East 2026 competition.</li>
     </ul>
+    <div style="text-align: center; margin-bottom: 10px;">
+          <img src="/assets/img/WingsOfGompeiPlaneDesign.jpg" alt="Photo of the SolidWorks airplane design." 
+               style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+          <p style="font-size: 0.85em; color: #777; margin-top: 5px;">
+              SolidWorks design of airplane.
+          </p>
+      </div>
   </div>
   
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
