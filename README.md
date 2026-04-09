@@ -68,6 +68,20 @@
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <p style="margin: 0; font-size: 1.1em;">
+            <strong>Orion ESM Safety & Mission Assurance</strong><br>
+            <em>NASA Glenn Research Center</em><br>
+            <span style="font-size: 0.95em; color: #555;">Summer 2026</span>
+        </p>
+        <img src="/assets/img/nasa.png" alt="NASA" style="height: 40px; width: auto;">
+    </div>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+        <li>- Working on data management and analysis, failure analysis and preventative/corrective action identification, and analysis of trends for the Orion program.</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <p style="margin: 0; font-size: 1.1em;">
             <strong>Student Researcher</strong><br>
             <em>Honeywell GQP - Cathode Optimization for Low Temperature PEM Fuel Cells</em><br>
             <span style="font-size: 0.95em; color: #555;">Oct 2025 - Present</span>
