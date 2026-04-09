@@ -68,7 +68,7 @@
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <p style="margin: 0; font-size: 1.1em;">
-            <strong>Orion ESM Safety & Mission Assurance</strong><br>
+            <strong>Orion ESM Safety & Mission Assurance Intern</strong><br>
             <em>NASA Glenn Research Center</em><br>
             <span style="font-size: 0.95em; color: #555;">Summer 2026</span>
         </p>
