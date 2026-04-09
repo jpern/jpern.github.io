@@ -75,7 +75,7 @@
         <img src="/assets/img/nasa.png" alt="NASA" style="height: 40px; width: auto;">
     </div>
     <ul style="margin-top: 10px; padding-left: 20px;">
-        <li>- Working on data management and analysis, failure analysis and preventative/corrective action identification, and analysis of trends for the Orion program.</li>
+        <li>Working on data management and analysis, failure analysis and preventative/corrective action identification, and analysis of trends for the Orion program.</li>
     </ul>
   </div>
 
