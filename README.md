@@ -21,11 +21,18 @@
 </div>
 <br>
 <h2 style="font-size: 1.5em;">🧑‍🎓 <strong>Education</strong></h2>
+div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+  <p style="margin: 0; font-size: 1.1em;">
+    <strong>Johns Hopkins University</strong><br>
+    M.S.E. in Mechanical Engineering<br>
+    <em>Expected May 2028</em>
+  </p>
+</div>
 <div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
   <p style="margin: 0; font-size: 1.1em;">
     <strong>Worcester Polytechnic Institute</strong><br>
     B.S. in Mechanical Engineering<br>
-    <em>Expected May 2026</em>
+    <em>May 2026, High Distinction</em>
   </p>
 </div>
 
