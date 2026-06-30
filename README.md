@@ -77,7 +77,7 @@
         <p style="margin: 0; font-size: 1.1em;">
             <strong>Orion ESM Safety & Mission Assurance Intern</strong><br>
             <em>NASA Glenn Research Center</em><br>
-            <span style="font-size: 0.95em; color: #555;">June 2026 - Present</span>
+            <span style="font-size: 0.95em; color: #555;">Jun 2026 - Present</span>
         </p>
         <img src="/assets/img/nasa.png" alt="NASA" style="height: 40px; width: auto;">
     </div>
