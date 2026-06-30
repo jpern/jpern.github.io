@@ -77,12 +77,14 @@
         <p style="margin: 0; font-size: 1.1em;">
             <strong>Orion ESM Safety & Mission Assurance Intern</strong><br>
             <em>NASA Glenn Research Center</em><br>
-            <span style="font-size: 0.95em; color: #555;">Summer 2026</span>
+            <span style="font-size: 0.95em; color: #555;">June 2026 - Present</span>
         </p>
         <img src="/assets/img/nasa.png" alt="NASA" style="height: 40px; width: auto;">
     </div>
     <ul style="margin-top: 10px; padding-left: 20px;">
-        <li>Working on data management and analysis, failure analysis and preventative/corrective action identification, and analysis of trends for the Orion program.</li>
+        <li>Evaluating Orion European Service Module (ESM) Qualification Review (QR) documents, Acceptance Data Packages (ADPs), and Artemis Change Packages (CP) to develop database of non-conformance data for use in Mission Anomaly Resolution.</li>
+      <li>Compiling data for use in failure and trend analysis related to safety and mission assurance of the Orion ESM component.</li>
+      <li>Conducting trade studies for use in resolution of risks related to the safety and mission assurance of the Artemis Program.</li>
     </ul>
   </div>
 
