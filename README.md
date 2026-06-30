@@ -26,6 +26,7 @@
     <strong>Johns Hopkins University</strong><br>
     M.S.E. in Mechanical Engineering<br>
     <em>Expected May 2028</em>
+    <em>Honors: Distinguished Master’s Tuition Fellowship Recipient</em>
   </p>
 </div>
 <div style="max-width: 600px; margin: 10px auto 30px auto; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
