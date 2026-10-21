@@ -76,9 +76,23 @@
   <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <p style="margin: 0; font-size: 1.1em;">
+            <strong>Course Support Assistant</strong><br>
+            <em>Johns Hopkins University</em><br>
+            <span style="font-size: 0.95em; color: #555;">Jun 2026 - Aug 2026</span>
+        </p>
+    </div>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+        <li>Enhancing instructional materials and ensuring accessibility of course design and development.</li>
+      <li>Reviewing and editing instructional content, converting PowerPoint presentations, and assisting with Canvas builds.</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <p style="margin: 0; font-size: 1.1em;">
             <strong>Orion ESM Safety & Mission Assurance Intern</strong><br>
             <em>NASA Glenn Research Center</em><br>
-            <span style="font-size: 0.95em; color: #555;">Jun 2026 - Present</span>
+            <span style="font-size: 0.95em; color: #555;">Jun 2026 - Aug 2026</span>
         </p>
         <img src="/assets/img/nasa.png" alt="NASA" style="height: 40px; width: auto;">
     </div>
