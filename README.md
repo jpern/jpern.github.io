@@ -78,7 +78,7 @@
         <p style="margin: 0; font-size: 1.1em;">
             <strong>Course Support Assistant</strong><br>
             <em>Johns Hopkins University</em><br>
-            <span style="font-size: 0.95em; color: #555;">Jun 2026 - Aug 2026</span>
+            <span style="font-size: 0.95em; color: #555;">Sep 2026 - Present</span>
         </p>
     </div>
     <ul style="margin-top: 10px; padding-left: 20px;">
